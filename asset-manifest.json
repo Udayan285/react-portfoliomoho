@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfoliomoho/static/css/main.811e5915.css",
-    "main.js": "/react-portfoliomoho/static/js/main.c1cf8c85.js",
-    "static/media/cv.pdf": "/react-portfoliomoho/static/media/cv.1676dcdc83730930d888.pdf",
+    "main.css": "/react-portfoliomoho/static/css/main.5282314b.css",
+    "main.js": "/react-portfoliomoho/static/js/main.8a4a2c54.js",
     "static/media/me.png": "/react-portfoliomoho/static/media/me.821ecddcb9953b46bf75.png",
     "static/media/me-about.jpg": "/react-portfoliomoho/static/media/me-about.fb4452e7f286d3636ef9.jpg",
     "static/media/portfolio5.png": "/react-portfoliomoho/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
@@ -11,12 +10,13 @@
     "static/media/portfolio1.jpg": "/react-portfoliomoho/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
     "static/media/portfolio3.jpg": "/react-portfoliomoho/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/portfolio4.jpg": "/react-portfoliomoho/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/cv.pdf": "/react-portfoliomoho/static/media/cv.63cfa4600ccf3ebb4f06.pdf",
     "index.html": "/react-portfoliomoho/index.html",
-    "main.811e5915.css.map": "/react-portfoliomoho/static/css/main.811e5915.css.map",
-    "main.c1cf8c85.js.map": "/react-portfoliomoho/static/js/main.c1cf8c85.js.map"
+    "main.5282314b.css.map": "/react-portfoliomoho/static/css/main.5282314b.css.map",
+    "main.8a4a2c54.js.map": "/react-portfoliomoho/static/js/main.8a4a2c54.js.map"
   },
   "entrypoints": [
-    "static/css/main.811e5915.css",
-    "static/js/main.c1cf8c85.js"
+    "static/css/main.5282314b.css",
+    "static/js/main.8a4a2c54.js"
   ]
 }
