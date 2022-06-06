@@ -44,7 +44,7 @@ function Testimonials() {
           <div className="client__avatar">
             <img src={AVTR2} alt="avtar two" />
           </div>
-          <h5 className="client__name">Earnest Achiver</h5>
+          <h5 className="client__name">Yantri</h5>
           <small className="client__review">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint eaque
             accusamus quaerat quod doloremque! Assumenda, ipsam! Nostrum,
@@ -56,7 +56,7 @@ function Testimonials() {
           <div className="client__avatar">
             <img src={AVTR3} alt="avtar three" />
           </div>
-          <h5 className="client__name">Earnest Achiver</h5>
+          <h5 className="client__name">Moho</h5>
           <small className="client__review">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint eaque
             accusamus quaerat quod doloremque! Assumenda, ipsam! Nostrum,
@@ -68,7 +68,7 @@ function Testimonials() {
           <div className="client__avatar">
             <img src={AVTR4} alt="avtar four" />
           </div>
-          <h5 className="client__name">Earnest Achiver</h5>
+          <h5 className="client__name">Hiya</h5>
           <small className="client__review">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint eaque
             accusamus quaerat quod doloremque! Assumenda, ipsam! Nostrum,

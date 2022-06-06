@@ -1,7 +1,7 @@
 header{
-    height: 100vh;
+    height: 130vh;
     padding-top: 7rem;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 .header__container{
     text-align: center;
@@ -60,7 +60,7 @@ header{
 
 @media screen and (max-width:1024px) {
     header{
-        height: 68vh;
+        height: 170vh;
     }
 
 
@@ -70,7 +70,7 @@ header{
 @media screen and (max-width:600px) {
 
     header{
-        height: 100vh;
+        height: 160vh;
         padding: 30px;
     }
     .scroll__down, .header__social{
