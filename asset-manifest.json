@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-portfoliomoho/static/css/main.5282314b.css",
+    "main.css": "/react-portfoliomoho/static/css/main.2966ea1c.css",
     "main.js": "/react-portfoliomoho/static/js/main.8a4a2c54.js",
     "static/media/me.png": "/react-portfoliomoho/static/media/me.821ecddcb9953b46bf75.png",
     "static/media/me-about.jpg": "/react-portfoliomoho/static/media/me-about.fb4452e7f286d3636ef9.jpg",
@@ -12,11 +12,11 @@
     "static/media/portfolio4.jpg": "/react-portfoliomoho/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "static/media/cv.pdf": "/react-portfoliomoho/static/media/cv.63cfa4600ccf3ebb4f06.pdf",
     "index.html": "/react-portfoliomoho/index.html",
-    "main.5282314b.css.map": "/react-portfoliomoho/static/css/main.5282314b.css.map",
+    "main.2966ea1c.css.map": "/react-portfoliomoho/static/css/main.2966ea1c.css.map",
     "main.8a4a2c54.js.map": "/react-portfoliomoho/static/js/main.8a4a2c54.js.map"
   },
   "entrypoints": [
-    "static/css/main.5282314b.css",
+    "static/css/main.2966ea1c.css",
     "static/js/main.8a4a2c54.js"
   ]
 }
