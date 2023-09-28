@@ -13,7 +13,7 @@ const form = useRef();
 const sendEmail = (e) => {
   e.preventDefault();
 
-  emailjs.sendForm('service_8va7a7p', 'template_8mvmkxz', form.current, 'b9TJ2okfZY7DRqef9')
+  emailjs.sendForm('service_opw1xpj', 'template_8mvmkxz', form.current, 'b9TJ2okfZY7DRqef9')
     .then((result) => {
         console.log(result.text);
     }, (error) => {
