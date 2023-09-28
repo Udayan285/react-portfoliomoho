@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../src/assets/me-about.jpg";
+import ME from "../../src/assets/about.jpg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -27,7 +27,7 @@ function About() {
                 </div>
                 
                 <h5>Experience</h5>
-                <small>3+ Years Working</small>
+                <small>1.5+ Years Working</small>
               </div>
             </article>
             <article>
@@ -37,7 +37,7 @@ function About() {
                 </div>
                 
                 <h5>Clients</h5>
-                <small>200+ Worlwide</small>
+                <small>24+ Worlwide</small>
               </div>
             </article>
             <article>
@@ -47,16 +47,13 @@ function About() {
                 </div>
                 
                 <h5>Projects</h5>
-                <small>80+ Completed</small>
+                <small>19+ Completed</small>
               </div>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus,
-            sapiente ipsam! Sint ducimus fugit necessitatibus animi soluta,
-            voluptatem eum eligendi id a, natus voluptate doloribus itaque
-            quaerat! Consequatur, consectetur perspiciatis.
+          Hello! I'm Udayan, a passionate Laravel developer with 1.5 years of experience in creating robust and scalable web applications. I thrive on challenges and enjoy turning complex problems into simple, efficient, and elegant solutions.
           </p>
 
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
