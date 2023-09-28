@@ -23,7 +23,7 @@ function Portfolio() {
           <h3>MyFolio Blog Project</h3>
           <div className="portfolio__item-cta">
           <a href="https://udayan285.github.io/myfolio.github.io/" className="btn" target="_blank">Github</a>
-          <a href="https://dribble.com/Alien_pixels" className="btn btn-primary" target="_blank">Live demo</a>
+          <a href="https://udayan285.github.io/myfolio.github.io/" className="btn btn-primary" target="_blank">Live demo</a>
           </div>
         </article>
         <article className="portfolio__item">
@@ -33,7 +33,7 @@ function Portfolio() {
           <h3>MohoFood Project</h3>
           <div className="portfolio__item-cta">
           <a href="https://udayan285.github.io/mohoFood/" className="btn" target="_blank">Github</a>
-          <a href="https://dribble.com/Alien_pixels" className="btn btn-primary" target="_blank">Live demo</a>
+          <a href="https://udayan285.github.io/mohoFood/" className="btn btn-primary" target="_blank">Live demo</a>
           </div>
         </article>
         <article className="portfolio__item">
@@ -43,7 +43,7 @@ function Portfolio() {
           <h3>Gym Project</h3>
           <div className="portfolio__item-cta">
           <a href="https://udayan285.github.io/gym/" className="btn" target="_blank">Github</a>
-          <a href="https://dribble.com/Alien_pixels" className="btn btn-primary" target="_blank">Live demo</a>
+          <a href="https://udayan285.github.io/gym/" className="btn btn-primary" target="_blank">Live demo</a>
           </div>
         </article>
         <article className="portfolio__item">
@@ -55,7 +55,7 @@ function Portfolio() {
           </h3>
           <div className="portfolio__item-cta">
           <a href="https://udayan285.github.io/textutils/" className="btn" target="_blank">Github</a>
-          <a href="https://dribble.com/Alien_pixels" className="btn btn-primary" target="_blank">Live demo</a>
+          <a href="https://udayan285.github.io/textutils/" className="btn btn-primary" target="_blank">Live demo</a>
           </div>
         </article>
         <article className="portfolio__item">
@@ -65,7 +65,7 @@ function Portfolio() {
           <h3>RedStore E-commerce Project</h3>
           <div className="portfolio__item-cta">
           <a href="https://udayan285.github.io/EcommerceProject.github.io/" className="btn" target="_blank">Github</a>
-          <a href="https://dribble.com/Alien_pixels" className="btn btn-primary" target="_blank">Live demo</a>
+          <a href="https://udayan285.github.io/EcommerceProject.github.io/" className="btn btn-primary" target="_blank">Live demo</a>
           </div>
         </article>
         <article className="portfolio__item">
@@ -75,7 +75,7 @@ function Portfolio() {
           <h3>Barber Shop Project</h3>
           <div className="portfolio__item-cta">
           <a href="https://udayan285.github.io/barber-shop.github.io/" className="btn" target="_blank">Github</a>
-          <a href="https://dribble.com/Alien_pixels" className="btn btn-primary" target="_blank">Live demo</a>
+          <a href="https://udayan285.github.io/barber-shop.github.io/" className="btn btn-primary" target="_blank">Live demo</a>
           </div>
         </article>
   
